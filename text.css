@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+}
+#part1{
+    color: blue;
+    text-align: center;
+    
+}
+
+#part2{
+    color: rgba(225, 0, 0, 1);
+
+}
+#part3{
+    color: #85f466;
+
+}
+#part4{
+    color: hsl(0, 100%, 50%);
+
+}
+#part5{
+    color: blueviolet;
+
+}
