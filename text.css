@@ -4,22 +4,35 @@ h2{
 #part1{
     color: blue;
     text-align: center;
+    text-transform: capitalize;
     
 }
 
 #part2{
     color: rgba(225, 0, 0, 1);
+    text-align: right;
+    text-transform: lowercase;
 
 }
 #part3{
     color: #85f466;
-
+    text-align: justify;
+    text-decoration: line-through dashed royalblue 1px;
 }
 #part4{
     color: hsl(0, 100%, 50%);
+    text-decoration: underline;
+    text-indent: 2rem;
 
 }
 #part5{
-    color: blueviolet;
+    color: hsl(0, 100%, 50%);
+    text-decoration: overline wavy olive;
+    text-transform: uppercase;
 
+}
+
+#span1{
+    color: yellowgreen;
+    text-decoration: overline wavy blue;
 }
